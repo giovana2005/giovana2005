@@ -1,5 +1,5 @@
 ## Sejam bem-vindos! 🌟📘
-![Imagem de Apresentação](Estudante de Bacharelado em Ciência e Tecnologia pela ILUM Escola de Ciência.png)
+![Descrição da Imagem](./images/Estudante%20de%20Bacharelado%20em%20Ciência%20e%20Tecnologia%20pela%20ILUM%20Escola%20de%20Ciência.png)
 
 
 <!--
