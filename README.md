@@ -16,6 +16,9 @@
 [E-mail institucional](giovana24008@ilum.cnpem.br) |
 [Linkedin](linkedin.com/in/giovana-martins-coelho-a325852ab) |
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giovana2005&show_icons=true&theme=radical)
+![Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana2005&layout=compact&theme=radical)
+
 
 
 
