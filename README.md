@@ -1,5 +1,5 @@
 ## Sejam bem-vindos! 🌟📘
-<img src="./apresentacao_github_2.png" alt="Apresentação GitHub 2" width="5000"/>
+<img src="./apresentacao_github_2.png" alt="Apresentação GitHub 2" width="500"/>
 
 ![Python](https://img.shields.io/badge/Python-3.9.0-blue.svg) ![ILUM](https://img.shields.io/badge/ILUM-9B59B6?style=flat&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
