@@ -10,7 +10,7 @@
 
 🧫 Sou muita interessada por biotecnologia e biologia quântica!
 
-🖥️ Fique a vontade para explorar os códigos desenvolvidos! Sou iniciante em programação, os repositórios disponíveis desenvolvidos são bastantes didáticos e foram feitos por equipes de alunos Ilum. Espero que possam ser úteis para seu aprendizado! 
+🖥️ Fique a vontade para explorar os códigos desenvolvidos! Sou iniciante em programação, os repositórios disponíveis são bastantes didáticos e foram feitos por equipes de alunos Ilum. Espero que possam ser úteis para seu aprendizado! 
 
 🌐 [Currículo Lattes](https://lattes.cnpq.br/1930244511322681) |
 [E-mail institucional](giovana24008@ilum.cnpem.br) |
