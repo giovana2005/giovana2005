@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sejam bem-vindos! 🌟📘
+![Imagem de apresentação]("C:\Users\giovana24008\Downloads\Estudante de Bacharelado em Ciência e Tecnologia pela ILUM Escola de Ciência.png")
+
 
 <!--
 **giovana2005/giovana2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
