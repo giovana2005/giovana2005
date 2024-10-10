@@ -6,7 +6,7 @@
 
 
 
-🧪 Atualmente, curso o segundo semestre de Bacharelado em Ciência Tecnologia na Ilum Escola de Ciência, a faculdade do Centro Nacional de Pesquisa em Energia em Materias em Campinas-SP.
+🧪 Atualmente, curso o segundo semestre de Bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência, a faculdade do Centro Nacional de Pesquisa em Energia em Materias, em Campinas-SP.
 
 🧫 Sou muita interessada por biotecnologia e biologia quântica!
 
