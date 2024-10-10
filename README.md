@@ -1,5 +1,5 @@
 ## Sejam bem-vindos! 🌟📘
-![Imagem de apresentação]("C:\Users\giovana24008\Downloads\Estudante de Bacharelado em Ciência e Tecnologia pela ILUM Escola de Ciência.png")
+![Imagem de apresentação]("Estudante de Bacharelado em Ciência e Tecnologia pela ILUM Escola de Ciência.png")
 
 
 <!--
