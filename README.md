@@ -1,5 +1,15 @@
 ## Sejam bem-vindos! 🌟📘
-<img src="./apresentacao_github_2.png" alt="Apresentação GitHub 2" width="300"/>
+<img src="./apresentacao_github_2.png" alt="Apresentação GitHub 2" width="450"/>
+
+🧪 Atualmente, curso o segundo semestre de Bacharelado em Ciência Tecnologia na Ilum Escola de Ciência, a faculdade do Centro Nacional de Pesquisa em Energia em Materias em Campinas-SP.
+
+🧫 Sou muita interessada por biotecnologia e biologia quântica!
+
+🖥️ Fique a vontade para explorar os códigos desenvolvidos! Sou iniciante em programação, os repositórios disponíveis desenvolvidos são bastantes didáticos e foram feitos por equipes de alunos Ilum. Espero que possam ser úteis para seu aprendizado! 
+
+🌐 [Currículo Lattes](https://lattes.cnpq.br/1930244511322681)
+[E-mail institucional](giovana24008@ilum.cnpem.br)
+[Linkedin](linkedin.com/in/giovana-martins-coelho-a325852ab)
 
 
 
