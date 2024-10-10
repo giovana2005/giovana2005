@@ -1,5 +1,6 @@
 ## Sejam bem-vindos! 🌟📘
-![Apresentação](./apresentacao_github_2.png)
+<img src="./apresentacao_github_2.png" alt="Apresentação GitHub 2" width="300"/>
+
 
 
 <!--
