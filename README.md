@@ -1,5 +1,5 @@
 ## Sejam bem-vindos! 🌟📘
-![Apresentação](./apresentacao_github.png)
+![Apresentação](./apresentacao_github_2.png)
 
 
 <!--
