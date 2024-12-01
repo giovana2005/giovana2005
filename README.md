@@ -8,7 +8,7 @@
 
 🧪 Atualmente, curso o segundo semestre de Bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência, a faculdade do Centro Nacional de Pesquisa em Energia em Materias, em Campinas-SP.
 
-🧫 Sou muita interessada por biotecnologia e biologia quântica!
+🧫 Sou muita interessada por biotecnologia e biologia molecular!
 
 🖥️ Fique a vontade para explorar os códigos desenvolvidos! Sou iniciante em programação, os repositórios disponíveis são bastantes didáticos e foram feitos por equipes de alunos Ilum. Espero que possam ser úteis para seu aprendizado! 
 
