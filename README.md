@@ -1,6 +1,6 @@
 ## Sejam bem-vindos! 🌟📘
 
-![Code like a girl](URL_DA_IMAGEM)
+![Code like a girl](https://github.com/giovana2005/giovana2005/blob/main/_Code%20like%20a%20girl%20programming_%20Essential%20T-Shirt%20for%20Sale%20by%20playloud.jpg?raw=true)
 
 
 ![Python](https://img.shields.io/badge/Python-3.9.0-blue.svg) ![ILUM](https://img.shields.io/badge/ILUM-9B59B6?style=flat&logo=python&logoColor=white)
