@@ -1,16 +1,15 @@
 ## Sejam bem-vindos! 🌟📘
-<img src="./apresentacao_github_2.png" alt="Apresentação GitHub 2" width="500"/>
+
+![Code like a girl](URL_DA_IMAGEM)
+
 
 ![Python](https://img.shields.io/badge/Python-3.9.0-blue.svg) ![ILUM](https://img.shields.io/badge/ILUM-9B59B6?style=flat&logo=python&logoColor=white)
 
 
+🧪 Atualmente, curso o terceiro semestre de Bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência, a faculdade do Centro Nacional de Pesquisa em Energia em Materias (CNPEM), em Campinas-SP.
 
 
-🧪 Atualmente, curso o segundo semestre de Bacharelado em Ciência e Tecnologia na Ilum Escola de Ciência, a faculdade do Centro Nacional de Pesquisa em Energia em Materias, em Campinas-SP.
-
-🧫 Sou muita interessada por biotecnologia e biologia molecular!
-
-🖥️ Fique a vontade para explorar os códigos desenvolvidos! Sou iniciante em programação, os repositórios disponíveis são bastantes didáticos e foram feitos por equipes de alunos Ilum. Espero que possam ser úteis para seu aprendizado! 
+🖥️ Fique a vontade para explorar os códigos desenvolvidos! Os repositórios disponíveis são bastantes didáticos e foram feitos por equipes de alunos Ilum. Espero que possam ser úteis para seu aprendizado! 
 
 🌐 [Currículo Lattes](https://lattes.cnpq.br/1930244511322681) |
 [E-mail institucional](giovana24008@ilum.cnpem.br) |
